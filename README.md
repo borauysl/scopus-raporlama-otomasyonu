@@ -4,4 +4,4 @@ Bu proje, Türkiye'deki üniversitelerin akademik performansını doğru ve etki
 
 Proje Özeti :
 
-Bu proje, Scopus veri tabanından çekilen verilerin MySQL veritabanına aktarılması ve ardından bu verilerin C# ile geliştirilen algoritmalar aracılığıyla analiz edilip raporlanmasını sağlamaktadır. Projenin amacı, üniversitelerin akademik performans değerlendirme süreçlerini modernize etmek, zaman ve maliyet tasarrufu sağlamak ve hatalı raporlama risklerini azaltmaktır.
+Bu proje, Scopus veri tabanından çekilen verilerin MySQL veritabanına aktarılması ve ardından bu verilerin C# ile geliştirilen algoritma aracılığıyla analiz edilip raporlanmasını sağlamaktadır. Projenin amacı, üniversitelerin akademik performans değerlendirme süreçlerini modernize etmek, zaman ve maliyet tasarrufu sağlamak ve hatalı raporlama risklerini azaltmaktır.
